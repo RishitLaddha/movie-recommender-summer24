@@ -40,10 +40,9 @@ All data is generated inside the notebook. No downloads needed.
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
-## workflow
-<img src="reccomendation.png" alt="Sample Output" width="903" />
+<img src="recommend%20system.png" alt="Workflow" width="903" />
 
 
 **Step 1: Build the ratings table**  
