@@ -42,6 +42,8 @@ All data is generated inside the notebook. No downloads needed.
 
 ## 🧠 How It Works
 
+![Workflow](reccomendation.png)
+
 **Step 1: Build the ratings table**  
 A pandas DataFrame with users as rows and movies as columns.
 
